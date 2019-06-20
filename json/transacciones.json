@@ -1,0 +1,32 @@
+[
+   {
+       "code": "C5277", 
+       "amount": "97.5",
+       "currency": "USD"
+   },
+   {
+       "code": "C5277",    
+       "amount": "3990.77",
+       "currency": "ARS"
+   },
+   {
+       "code": "W0049",     
+       "amount": "350",
+       "currency": "USD"
+   },
+   {
+       "code": "R4385",    
+       "amount": "709101.50",
+       "currency": "COP"
+   },
+   {
+       "code": "D4630",    
+       "amount": "12279.30",
+       "currency": "ARS"
+   },
+   {
+       "code": "D4630",    
+       "amount": "987426",
+       "currency": "BSS"
+   }
+]

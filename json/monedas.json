@@ -1,0 +1,22 @@
+[
+   {
+       "code": "USD",
+       "name": "Dólar Estadounidense"
+   },
+   {
+       "code": "EUR",
+       "name": "Euro"
+   },
+   {
+       "code": "BSS",
+       "name": "Bolívar Soberano"
+   },
+   {
+       "code": "ARS",
+       "name": "Peso Argentino"
+   },
+   {
+       "code": "COP",
+       "name": "Peso Colombiano"
+   }
+]
